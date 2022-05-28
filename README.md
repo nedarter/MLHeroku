@@ -8,6 +8,7 @@ Machine Learning Heroku Repo
 - Build / Train your model
 - Pickle the model / save it to a file
 - Create a new anaconda environment
+  - conda create --name **new environment name**
   - conda activate **new environment name**
 - pip install your requirements the new environment
 - build your flask application
