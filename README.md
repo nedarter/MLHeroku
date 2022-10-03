@@ -1,5 +1,5 @@
 # MLHeroku
-Machine Learning Heroku Repo
+Machine Learning Heroku Repo. This was used as part of a training video for the U of Mn Data Science Bootcamp. 
 
 ## Steps to Seting up your app: 
 
